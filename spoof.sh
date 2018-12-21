@@ -23,5 +23,3 @@ ifconfig -a | grep 'inet addr:'
 
 echo ".....OK....."
 
-
-test
