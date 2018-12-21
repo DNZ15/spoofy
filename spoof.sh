@@ -22,3 +22,6 @@ sleep 3
 ifconfig -a | grep 'inet addr:'
 
 echo ".....OK....."
+
+
+test
